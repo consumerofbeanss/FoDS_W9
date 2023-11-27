@@ -52,15 +52,15 @@ Spectral Clustering utilizes eigenvalues of a similarity matrix to perform clust
 
 #### Findings
 
-###### Silhoutte Score from Best to Worst
+##### Silhoutte Score from Best to Worst
 KMeans --> Agglomerative --> MeanShift --> Spectral
 
-###### Davies-Bouldin Index from Best to Wrost
+##### Davies-Bouldin Index from Best to Wrost
 Spectral --> KMeans --> Agglomerative --> Meanshift
 
-###### Rand Score from Best to Worst
+##### Rand Score from Best to Worst
 MeanShift --> KMeans --> Agglomerative --> Spectral
 
-###### Calinski and Harabasz Score from Best to Worst
+##### Calinski and Harabasz Score from Best to Worst
 KMeans --> Agglomerative --> MeanShift --> Spectral
 
