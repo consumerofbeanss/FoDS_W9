@@ -1,4 +1,4 @@
-# Fundamentals of Data Science Weekk 9 Forum
+# Fundamentals of Data Science Week 9 Forum
 ## Unsupervised Machine Learning
 ### Ostein Vittorio Vellim
 ### 2602206783
